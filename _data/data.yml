@@ -130,7 +130,7 @@ skills:
       - name: Python
         level: 90%
 
-      - name: Data Science Packages (e.g. pandas, plotly, numpy, scikit-learn)
+      - name: DS Packages (e.g. pandas, plotly, numpy, scikit-learn)
         level: 90%
 
       - name: PyTorch
