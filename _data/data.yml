@@ -68,6 +68,14 @@ educationcomplete:
         at Phystech-school of applied mathematics and computer science.
 
 
+courses:
+  - name:
+    author:
+    platform:
+    time:
+    details:
+
+
 experiences:
     - role: Data Science Junior Researcher
       time: 2020 Jul - Present
@@ -76,13 +84,6 @@ experiences:
         Working on intracorporate time series project at Tinkoff Fintech Lab. Responsibilities: search, overview
         and small research of forecasting models for time series, their basic implementation, designing research environment,
         discussion of the architecture of the library for time series forecasting.
-        |
-        Techology stack:
-          - Python
-          - Jupyter Notebook
-          - PyTorch
-          - DVC
-          - Agile
 
 #projects:
     #title: Projects
