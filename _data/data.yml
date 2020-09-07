@@ -69,10 +69,10 @@ educationcomplete:
 
 
 courses:
-  - name:
-    author:
-    platform:
-    time:
+  - name: Supervised Learning
+    author: Yandex & MIPT
+    platform: Coursera
+    time: Sep-Dec 2019
     details:
 
 
