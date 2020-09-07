@@ -128,22 +128,28 @@ skills:
 
     toolset:
       - name: Python
+        level: 90%
+
+      - name: Data Science Packages
         level: 100%
 
       - name: PyTorch
-        level: 90%
+        level: 75%
 
       - name: Tensorflow
-        level: 60%
+        level: 50%
 
-      - name: Caffe
+      - name: Proficient Math
+        level: 100%
+
+      - name: Mathematical Statistics
         level: 80%
 
-      - name: Matlab
-        level: 90%
-
       - name: C/C++
-        level: 75%
+        level: 70%
+
+      - name: Algorithms & Data Structures
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
