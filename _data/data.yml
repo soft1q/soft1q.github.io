@@ -85,7 +85,7 @@ experiences:
         Working on intracorporate time series project at Tinkoff Fintech Lab. Responsibilities: search, overview
         and small research of forecasting models for time series, their basic implementation, designing research environment,
         discussion of the architecture of the library for time series forecasting. Working in ETNA project on time series
-        forecasting. Mostly working on ETNA library which implementing pipelines for training different forecasting models.
+        forecasting. Mostly working on ETNA library which implements pipelines for training different forecasting models.
 
 #projects:
     #title: Projects
