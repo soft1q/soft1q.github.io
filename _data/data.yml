@@ -41,7 +41,8 @@ career-profile:
       I am currently a 4-year student at Phystech-school of Applied Mathematics and Computer Science at MIPT.
       Having started learning programming at the age of 12, I've found my passion in Data Science after completing
       university courses in mathematical statistics and machine learning. Now i am seeking for any experience in
-      different  areas of data science and machine learning by internships, labs or junior positions.
+      different  areas of data science and machine learning by internships, labs or junior positions. Currently most
+      interested in recommendation systems and quantum computing.
 
 # news:
     # title: News
@@ -83,7 +84,8 @@ experiences:
       details: |
         Working on intracorporate time series project at Tinkoff Fintech Lab. Responsibilities: search, overview
         and small research of forecasting models for time series, their basic implementation, designing research environment,
-        discussion of the architecture of the library for time series forecasting.
+        discussion of the architecture of the library for time series forecasting. Working in ETNA project on time series
+        forecasting. Mostly working on ETNA library which implementing pipelines for training different forecasting models.
 
 #projects:
     #title: Projects
