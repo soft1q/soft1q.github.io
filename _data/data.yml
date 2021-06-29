@@ -136,11 +136,11 @@ skills:
       - name: DS Packages (e.g. pandas, plotly, numpy, scikit-learn)
         level: 95%
 
+      - name: Machine learning
+        level: 80%
+
       - name: PyTorch
         level: 85%
-
-      - name: Tensorflow
-        level: 50%
 
       - name: Proficient Math
         level: 95%
@@ -149,6 +149,9 @@ skills:
         level: 95%
 
       - name: C/C++
+        level: 60%
+
+      - name: SQL
         level: 60%
 
       - name: Algorithms & Data Structures
