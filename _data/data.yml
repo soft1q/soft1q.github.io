@@ -63,10 +63,11 @@ career-profile:
 educationcomplete:
     - degree: Bachelor Degree
       university: Moscow Institute of Physics and Technology
-      time: 2017 - present
+      time: 2017 - 2021
       details: |
         Bachelor degree in Applied Mathematics and Physics
         at Phystech-school of applied mathematics and computer science.
+        GPA 4.4.
 
 
 courses:
@@ -130,25 +131,25 @@ skills:
 
     toolset:
       - name: Python
-        level: 90%
+        level: 95%
 
       - name: DS Packages (e.g. pandas, plotly, numpy, scikit-learn)
-        level: 90%
+        level: 95%
 
       - name: PyTorch
-        level: 75%
+        level: 85%
 
       - name: Tensorflow
         level: 50%
 
       - name: Proficient Math
-        level: 90%
+        level: 95%
 
       - name: Mathematical Statistics
-        level: 80%
+        level: 95%
 
       - name: C/C++
-        level: 70%
+        level: 60%
 
       - name: Algorithms & Data Structures
         level: 70%
